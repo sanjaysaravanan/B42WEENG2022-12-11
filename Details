@@ -1,0 +1,41 @@
+
+Topics:
+
+  API:
+  An application programming interface (API) is a way for two or more computer programs to communicate with each other.
+
+  Handle with Response Code
+  
+  failed network error --> with onerror function
+  
+  Hoisting & Scope:
+
+    JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code.
+
+    var, function
+
+  functions and return:
+    when we return a valid value then proper value is returned
+    else undefine is returned
+
+
+  types of function
+    1. function declaration/definition
+    2. function expression
+    3. Arrow function
+    4. IIFE
+    5. Anonymous function
+    6. Closure
+
+  es6 features
+
+    spread
+    object property shorthand
+
+    template literals
+
+Next Session:
+  Difference Betweeen normal function keyword function  and arrow function
+  array & object destructuring
+  rest operators
+
